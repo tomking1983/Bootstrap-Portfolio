@@ -31,7 +31,7 @@ This is my previous portfolio designed using elements of Bootstrap
 
 ### Link to work
 
-[Module 2 Work](https://tomking1983.github.io/module-2-challenge/)
+[Module 3 Work](https://tomking1983.github.io/Bootstrap-Portfolio/)
 
 ### Notes
 
