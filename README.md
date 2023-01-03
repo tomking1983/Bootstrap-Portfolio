@@ -25,7 +25,7 @@ This is my previous portfolio designed using elements of Bootstrap
 * An About / Contact Section
 * A Footer section
 
-### Screenshot of the portfolio
+### Screenshot of the portfolio at time of deployment
 
 ![](../Bootstrap-Portfolio/images/screengrab.png)
 
