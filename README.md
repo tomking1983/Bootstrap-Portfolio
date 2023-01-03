@@ -27,7 +27,7 @@ This is my previous portfolio designed using elements of Bootstrap
 
 ### Screenshot of the portfolio at time of deployment
 
-![](../Bootstrap-Portfolio/images/screengrab.jpg)
+![ScreenShot](/images/screengrab.jpg)
 
 ### Link to work
 
